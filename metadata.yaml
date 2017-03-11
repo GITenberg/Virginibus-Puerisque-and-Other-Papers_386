@@ -1,5 +1,8 @@
 _repo: Virginibus-Puerisque-and-Other-Papers_386
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: Memories and portraits.--Virginibus puerisque and other papers. -- Memoir
   of Fleeming Jenkin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/386#Virginibus-Puerisque-and-Other-Papers
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
 identifiers:
